@@ -22,13 +22,6 @@ gemini_api_key = os.getenv("GEMINI_API_KEY")
 
 WORKING_DIR = "./KB"
 
-if os.path.exists(WORKING_DIR):
-    import shutil
-
-    shutil.rmtree(WORKING_DIR)
-
-os.mkdir(WORKING_DIR)
-
 
 async def llm_model_func(
     prompt, system_prompt=None, history_messages=[], keyword_extraction=False, **kwargs
@@ -95,14 +88,14 @@ def main():
         param=QueryParam(mode="hybrid", top_k=5, response_type="single line"),
     )
     print("文档的主要内容是什么?")
-    print(response)
+    print("【回答】：", response)
     
     response = rag.query(
         query="三色三步高是什么，怎么胡牌?",
         param=QueryParam(mode="hybrid", top_k=5, response_type="single line"),
     )
     print("三色三步高是什么，怎么胡牌?")
-    print(response)
+    print("【回答】：", response)
 
 
 if __name__ == "__main__":
