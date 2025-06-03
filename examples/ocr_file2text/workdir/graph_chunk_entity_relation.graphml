@@ -1,0 +1,236 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d9" for="edge" attr.name="file_path" attr.type="string"/>
+<key id="d8" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d7" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d6" for="edge" attr.name="description" attr.type="string"/>
+<key id="d5" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d4" for="node" attr.name="file_path" attr.type="string"/>
+<key id="d3" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d2" for="node" attr.name="description" attr.type="string"/>
+<key id="d1" for="node" attr.name="entity_type" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_id" attr.type="string"/>
+<graph edgedefault="undirected"><node id="北京冬奥会">
+  <data key="d0">北京冬奥会</data>
+  <data key="d1">event</data>
+  <data key="d2">The Beijing Winter Olympics is a major international multi-sport event held in Beijing.</data>
+  <data key="d3">chunk-26ffcd41a010b82242e292228e07bb2b</data>
+  <data key="d4">./test_file/test.pptx</data>
+</node>
+<node id="美国T-Mobile">
+  <data key="d0">美国T-Mobile</data>
+  <data key="d1">organization</data>
+  <data key="d2">T-Mobile is a telecommunications company in the U.S. planning to offer 5G OTT services.</data>
+  <data key="d3">chunk-26ffcd41a010b82242e292228e07bb2b</data>
+  <data key="d4">./test_file/test.pptx</data>
+</node>
+<node id="韩国平昌冬奥">
+  <data key="d0">韩国平昌冬奥</data>
+  <data key="d1">event</data>
+  <data key="d2">The PyeongChang Winter Olympics in South Korea featured 360-degree VR and synchronized viewing services.</data>
+  <data key="d3">chunk-26ffcd41a010b82242e292228e07bb2b</data>
+  <data key="d4">./test_file/test.pptx</data>
+</node>
+<node id="中国超高清视频产业">
+  <data key="d0">中国超高清视频产业</data>
+  <data key="d1">category</data>
+  <data key="d2">China's ultra-high-definition video industry has a potential market size reaching trillions.</data>
+  <data key="d3">chunk-26ffcd41a010b82242e292228e07bb2b</data>
+  <data key="d4">./test_file/test.pptx</data>
+</node>
+<node id="全球4K用户数">
+  <data key="d0">全球4K用户数</data>
+  <data key="d1">category</data>
+  <data key="d2">Global 4K user base has exceeded 330 million, with China accounting for over 120 million.</data>
+  <data key="d3">chunk-26ffcd41a010b82242e292228e07bb2b</data>
+  <data key="d4">./test_file/test.pptx</data>
+</node>
+<node id="全球每月数据流量">
+  <data key="d0">全球每月数据流量</data>
+  <data key="d1">category</data>
+  <data key="d2">Global monthly data traffic reaches 50 million TB, with video traffic accounting for 80%.</data>
+  <data key="d3">chunk-26ffcd41a010b82242e292228e07bb2b</data>
+  <data key="d4">./test_file/test.pptx</data>
+</node>
+<node id="Canalys Forecast">
+  <data key="d0">Canalys Forecast</data>
+  <data key="d1">organization</data>
+  <data key="d2">Canalys Forecast is a research firm providing market analysis and forecasts.</data>
+  <data key="d3">chunk-26ffcd41a010b82242e292228e07bb2b</data>
+  <data key="d4">./test_file/test.pptx</data>
+</node>
+<node id="德勤">
+  <data key="d0">德勤</data>
+  <data key="d1">organization</data>
+  <data key="d2">Deloitte is a global consulting firm involved in research and analysis.</data>
+  <data key="d3">chunk-26ffcd41a010b82242e292228e07bb2b</data>
+  <data key="d4">./test_file/test.pptx</data>
+</node>
+<node id="中兴通讯">
+  <data key="d0">中兴通讯</data>
+  <data key="d1">organization</data>
+  <data key="d2">ZTE is a telecommunications company conducting research on 5G and video technologies.</data>
+  <data key="d3">chunk-26ffcd41a010b82242e292228e07bb2b</data>
+  <data key="d4">./test_file/test.pptx</data>
+</node>
+<node id="5G">
+  <data key="d0">5G</data>
+  <data key="d1">category</data>
+  <data key="d2">5G is the fifth generation of mobile network technology enabling high-speed data transmission and supporting applications like 8K video and VR.</data>
+  <data key="d3">chunk-26ffcd41a010b82242e292228e07bb2b</data>
+  <data key="d4">./test_file/test.pptx</data>
+</node>
+<node id="8K视频转播">
+  <data key="d0">8K视频转播</data>
+  <data key="d1">category</data>
+  <data key="d2">8K video broadcasting refers to ultra-high-definition video transmission, demonstrated during China's 5G trials in 2019.</data>
+  <data key="d3">chunk-26ffcd41a010b82242e292228e07bb2b</data>
+  <data key="d4">./test_file/test.pptx</data>
+</node>
+<node id="360度VR">
+  <data key="d0">360度VR</data>
+  <data key="d1">category</data>
+  <data key="d2">360-degree VR technology provides immersive viewing experiences, used during the 2018 PyeongChang Winter Olympics.</data>
+  <data key="d3">chunk-26ffcd41a010b82242e292228e07bb2b</data>
+  <data key="d4">./test_file/test.pptx</data>
+</node>
+<node id="同步观赛">
+  <data key="d0">同步观赛</data>
+  <data key="d1">category</data>
+  <data key="d2">Synchronized viewing allows multiple users to watch events simultaneously with shared interactive features.</data>
+  <data key="d3">chunk-26ffcd41a010b82242e292228e07bb2b</data>
+  <data key="d4">./test_file/test.pptx</data>
+</node>
+<node id="交互式AR/VR游戏">
+  <data key="d0">交互式AR/VR游戏</data>
+  <data key="d1">category</data>
+  <data key="d2">Interactive AR/VR games represent next-generation entertainment leveraging 5G networks.</data>
+  <data key="d3">chunk-26ffcd41a010b82242e292228e07bb2b</data>
+  <data key="d4">./test_file/test.pptx</data>
+</node>
+<node id="超高视频远程驾驶">
+  <data key="d0">超高视频远程驾驶</data>
+  <data key="d1">category</data>
+  <data key="d2">Ultra-high-definition video enables remote driving applications with low latency.</data>
+  <data key="d3">chunk-26ffcd41a010b82242e292228e07bb2b</data>
+  <data key="d4">./test_file/test.pptx</data>
+</node>
+<node id="视网膜级别的VR赛事直播">
+  <data key="d0">视网膜级别的VR赛事直播</data>
+  <data key="d1">category</data>
+  <data key="d2">Retinal-grade VR live streaming offers ultra-high-resolution immersive sports viewing.</data>
+  <data key="d3">chunk-26ffcd41a010b82242e292228e07bb2b</data>
+  <data key="d4">./test_file/test.pptx</data>
+</node>
+<node id="5G视频业务">
+  <data key="d0">5G视频业务</data>
+  <data key="d3">chunk-26ffcd41a010b82242e292228e07bb2b</data>
+  <data key="d2">The PyeongChang Winter Olympics introduced 5G video services like 360-degree VR.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">./test_file/test.pptx</data>
+</node>
+<node id="5G OTT服务">
+  <data key="d0">5G OTT服务</data>
+  <data key="d3">chunk-26ffcd41a010b82242e292228e07bb2b</data>
+  <data key="d2">T-Mobile plans to offer 5G OTT services, contributing to the growth of 5G applications.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">./test_file/test.pptx</data>
+</node>
+<node id="视频流量">
+  <data key="d0">视频流量</data>
+  <data key="d3">chunk-26ffcd41a010b82242e292228e07bb2b</data>
+  <data key="d2">Video traffic dominates global monthly data traffic, accounting for 80%.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">./test_file/test.pptx</data>
+</node>
+<edge source="北京冬奥会" target="中国超高清视频产业">
+  <data key="d5">8.0</data>
+  <data key="d6">The Beijing Winter Olympics is a platform for showcasing China's ultra-high-definition video technologies.</data>
+  <data key="d7">technology showcase, event impact</data>
+  <data key="d8">chunk-26ffcd41a010b82242e292228e07bb2b</data>
+  <data key="d9">./test_file/test.pptx</data>
+</edge>
+<edge source="北京冬奥会" target="5G">
+  <data key="d5">9.0</data>
+  <data key="d6">The Beijing Winter Olympics utilized 5G technology to enable advanced broadcasting features.</data>
+  <data key="d7">event technology, network infrastructure</data>
+  <data key="d8">chunk-26ffcd41a010b82242e292228e07bb2b</data>
+  <data key="d9">./test_file/test.pptx</data>
+</edge>
+<edge source="北京冬奥会" target="8K视频转播">
+  <data key="d5">8.0</data>
+  <data key="d6">The event showcased 8K video broadcasting as part of China's 5G demonstrations.</data>
+  <data key="d7">media innovation, technology showcase</data>
+  <data key="d8">chunk-26ffcd41a010b82242e292228e07bb2b</data>
+  <data key="d9">./test_file/test.pptx</data>
+</edge>
+<edge source="美国T-Mobile" target="5G OTT服务">
+  <data key="d5">7.0</data>
+  <data key="d6">T-Mobile plans to offer 5G OTT services, contributing to the growth of 5G applications.</data>
+  <data key="d7">telecommunications, service expansion</data>
+  <data key="d8">chunk-26ffcd41a010b82242e292228e07bb2b</data>
+  <data key="d9">./test_file/test.pptx</data>
+</edge>
+<edge source="美国T-Mobile" target="5G">
+  <data key="d5">8.0</data>
+  <data key="d6">T-Mobile is developing 5G OTT services to leverage next-gen network capabilities.</data>
+  <data key="d7">service innovation, network deployment</data>
+  <data key="d8">chunk-26ffcd41a010b82242e292228e07bb2b</data>
+  <data key="d9">./test_file/test.pptx</data>
+</edge>
+<edge source="韩国平昌冬奥" target="5G视频业务">
+  <data key="d5">9.0</data>
+  <data key="d6">The PyeongChang Winter Olympics introduced 5G video services like 360-degree VR.</data>
+  <data key="d7">innovation, event technology</data>
+  <data key="d8">chunk-26ffcd41a010b82242e292228e07bb2b</data>
+  <data key="d9">./test_file/test.pptx</data>
+</edge>
+<edge source="韩国平昌冬奥" target="360度VR">
+  <data key="d5">9.0</data>
+  <data key="d6">PyeongChang Olympics introduced 360-degree VR experiences for enhanced viewer engagement.</data>
+  <data key="d7">immersive technology, event innovation</data>
+  <data key="d8">chunk-26ffcd41a010b82242e292228e07bb2b</data>
+  <data key="d9">./test_file/test.pptx</data>
+</edge>
+<edge source="韩国平昌冬奥" target="同步观赛">
+  <data key="d5">8.0</data>
+  <data key="d6">The Olympics implemented synchronized viewing features using 5G networks.</data>
+  <data key="d7">shared experiences, interactive media</data>
+  <data key="d8">chunk-26ffcd41a010b82242e292228e07bb2b</data>
+  <data key="d9">./test_file/test.pptx</data>
+</edge>
+<edge source="中国超高清视频产业" target="全球4K用户数">
+  <data key="d5">8.0</data>
+  <data key="d6">China's ultra-high-definition video industry is supported by a large 4K user base.</data>
+  <data key="d7">market growth, technology adoption</data>
+  <data key="d8">chunk-26ffcd41a010b82242e292228e07bb2b</data>
+  <data key="d9">./test_file/test.pptx</data>
+</edge>
+<edge source="全球每月数据流量" target="视频流量">
+  <data key="d5">9.0</data>
+  <data key="d6">Video traffic dominates global monthly data traffic, accounting for 80%.</data>
+  <data key="d7">data consumption, media trends</data>
+  <data key="d8">chunk-26ffcd41a010b82242e292228e07bb2b</data>
+  <data key="d9">./test_file/test.pptx</data>
+</edge>
+<edge source="中兴通讯" target="5G">
+  <data key="d5">9.0</data>
+  <data key="d6">ZTE conducts research on 5G technologies to support advanced applications.</data>
+  <data key="d7">tech development, infrastructure</data>
+  <data key="d8">chunk-26ffcd41a010b82242e292228e07bb2b</data>
+  <data key="d9">./test_file/test.pptx</data>
+</edge>
+<edge source="5G" target="8K视频转播">
+  <data key="d5">10.0</data>
+  <data key="d6">5G networks provide the bandwidth required for ultra-high-definition 8K video streaming.</data>
+  <data key="d7">network capability, media quality</data>
+  <data key="d8">chunk-26ffcd41a010b82242e292228e07bb2b</data>
+  <data key="d9">./test_file/test.pptx</data>
+</edge>
+<edge source="5G" target="交互式AR/VR游戏">
+  <data key="d5">8.0</data>
+  <data key="d6">5G enables low-latency interactive AR/VR gaming experiences.</data>
+  <data key="d7">entertainment technology, network performance</data>
+  <data key="d8">chunk-26ffcd41a010b82242e292228e07bb2b</data>
+  <data key="d9">./test_file/test.pptx</data>
+</edge>
+</graph></graphml>
