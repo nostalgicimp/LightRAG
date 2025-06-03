@@ -1,0 +1,13 @@
+pytesseract
+pillow
+pandas
+pymupdf
+paddleocr
+sentence-transformers
+openai
+python-docx
+numpy
+pymupdf
+paddlepaddle
+asyncio
+python-pptx
